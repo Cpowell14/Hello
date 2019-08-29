@@ -12,5 +12,10 @@ int main(int argc, char **argv) {
 
   printf("Computer Science\n");
 
+  
+  printf("Brian Belt\n");
+  
+  printf("Computer Engineering\n");
+  
   return 0;
 }
